@@ -1,2 +1,4 @@
 # Semihardware-of-PFC
-三相PFC半实物Psim仿真
+VIENNA电路半实物Psim仿真
+
+虚拟零序解耦抛物线法 
